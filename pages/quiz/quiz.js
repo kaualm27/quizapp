@@ -21,7 +21,6 @@ botaoTema.addEventListener("click", () => {
 verificarTema(body, botaoTema)
 
 
-console.log(assunto.toLowerCase())
 
 
 

@@ -43,7 +43,7 @@ body.escuro {
 
 body {
     height: 100svh;
-    background: var(--bg-mobile); var(--bg-color);
+    background: var(--bg-mobile) var(--bg-color);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -68,6 +68,22 @@ header {
     height: 40px;
     padding: 5px;
     border-radius: 5px;
+}
+
+.assunto_icone.html {
+    background: var(--bg-html);
+}
+
+.assunto_icone.css {
+    background: var(--bg-css);
+}
+
+.assunto_icone.javascript {
+    background: var(--bg-javascript);
+}
+
+.assunto_icone.acessibilidade {
+    background: var(--bg-acessibilidade);
 }
 
 .assunto_icone img {

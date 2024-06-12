@@ -45,7 +45,7 @@ body.escuro {
 
 body {
     height: 100svh;
-    background: var(--bg-mobile); var(--bg-color);
+    background: var(--bg-mobile) var(--bg-color);
     background-repeat: no-repeat;
     background-size: cover;
 
